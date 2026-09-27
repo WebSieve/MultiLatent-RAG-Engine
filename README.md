@@ -19,3 +19,7 @@ Traditional Transformers hit a brutal memory bandwidth wall during long-context 
 * **Massive VRAM Savings:** Shrinks the KV footprint drastically compared to standard Multi-Head Attention (MHA).
 * **Infinite Context Scaling:** Dynamically blends NTK-by-parts frequency interpolation to stretch context windows smoothly.
 * **Zero CUDA Bloat:** Pure, first-principles systems engineering running seamlessly via CPU-optimized Rust and Python glue.
+
+---
+
+### Coming soon
